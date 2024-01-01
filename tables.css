@@ -1,0 +1,26 @@
+div{
+    margin: 0 auto;
+    width: 80%;
+}
+table{
+    width: 100vw;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+body{
+    background:
+    url(./tables/download\ \(4\).jpg);
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-shadow: 4px 4px black;
+}
+h2{
+    color: white;
+    text-shadow: 4px 4px black;
+}
